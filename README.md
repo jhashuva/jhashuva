@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joshua
 - 👀 I’m interested in developing web/android apps
 - 🌱 I’m currently learning android with kotlin
-- 💞️ I’m looking to collaborate on android development and Ptrhon
+- 💞️ I’m looking to collaborate on android development and Python
 - 📫 How to reach me joshua537.nit@gmail.com
 
 <!---
